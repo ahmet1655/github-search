@@ -1,0 +1,24 @@
+#mainFooter{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: darkslateblue;
+    padding: 20px;
+}
+
+#youtube{
+    color: #fff;
+    margin-right: 5px;
+
+}
+
+#instagram{
+    color: #fff;
+    margin-right: 5px;
+}
+
+#twitter{
+    color: #fff;
+}
+
+
